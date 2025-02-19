@@ -1,10 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-/*
 
-Dupla: Thiago Quadros e Cauã Will
-
-*/
 #pragma region TREE_HEADER
 
 typedef struct tree_node {
